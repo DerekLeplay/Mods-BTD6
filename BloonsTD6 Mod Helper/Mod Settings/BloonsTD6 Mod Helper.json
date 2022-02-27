@@ -1,0 +1,13 @@
+{
+  "CleanProfile": true,
+  "AutoHideModdedClientPopup": false,
+  "OpenLocalDirectory": false,
+  "ExportTowerJSONs": false,
+  "ExportUpgradeJSONs": false,
+  "ExportPath": "",
+  "openBackupDir": true,
+  "openSaveDir": true,
+  "autosavePath": "",
+  "timeBetweenBackup": 30,
+  "maxSavedBackups": 10
+}
